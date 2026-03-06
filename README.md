@@ -26,41 +26,60 @@ Privacy-preserving architecture enabling secure data analysis without exposing r
 
 *System concept, architecture, and demo video produced by Taehoon Jang.*
 
-## Platforms & Projects
+<h2>Platforms & Projects</h2>
 
-<table>
+<table width="100%" style="border-collapse:collapse; text-align:center;">
+
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" style="padding:28px; vertical-align:top;">
 
-## 🧠 KryptoBrain
-Secure & Verifiable Data Analysis System
+<h3>🧠 KryptoBrain</h3>
 
-Privacy-preserving platform enabling secure computation without exposing raw datasets.
+<b>Secure & Verifiable Data Analysis System</b>
+
+<br><br>
+
+Privacy-preserving platform enabling secure computation  
+without exposing raw datasets.
+
+<br><br>
 
 CDM · PHR · Chrome Extension  
 Kubernetes · Secure Pod · Avalanche
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" style="padding:28px; vertical-align:top;">
 
-## 🪪 RhymeCard
-Decentralized Identity Platform
+<h3>🪪 RhymeCard</h3>
 
-Blockchain-based digital identity and membership service.
+<b>Decentralized Identity Platform</b>
+
+<br><br>
+
+Blockchain-based digital identity  
+and membership service.
+
+<br><br>
 
 DID · Verifiable Credential  
 QR / NFC · Privacy-first Design
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" style="padding:28px; vertical-align:top;">
 
-## 🧬 Clinical Trial Search
-ClinicalTrials.gov Data Platform
+<h3>🧬 Clinical Trial Search</h3>
 
-Large-scale clinical trial data pipeline providing search and analytics.
+<b>ClinicalTrials.gov Data Platform</b>
+
+<br><br>
+
+Large-scale clinical trial data pipeline  
+for search and analytics.
+
+<br><br>
 
 JSON ETL · MySQL  
 Elasticsearch · REST API
@@ -69,33 +88,46 @@ Elasticsearch · REST API
 
 </tr>
 
+
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" style="padding:28px; vertical-align:top;">
 
-## 🔬 Academic Paper Search
-(JGC)
+<h3>🔬 Academic Paper Search</h3>
 
-Context-aware scientific literature search with semantic retrieval.
+<b>(JGC)</b>
+
+<br><br>
+
+Context-aware scientific literature search  
+with semantic retrieval.
+
+<br><br>
 
 PubMed · SBERT  
 Vector Search · Re-rank
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" style="padding:28px; vertical-align:top;">
 
-## 🏥 Health Avatar Platform
+<h3>🏥 Health Avatar Platform</h3>
 
-EMR-linked personal health data platform ecosystem.
+<b>EMR-linked Personal Health Data Platform</b>
+
+<br><br>
+
+Healthcare platform ecosystem developed  
+at SNU Biomedical Informatics Lab.
+
+<br><br>
 
 HealthAvatar · DialysisNet  
 Beans App · PGxCDS
 
 </td>
 
-<td width="33%" align="center">
-
+<td width="33%" style="padding:28px;">
 </td>
 
 </tr>
