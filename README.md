@@ -37,9 +37,9 @@ Privacy-preserving architecture enabling secure data analysis without exposing r
 <p align="center">
 
 <img src="https://img.shields.io/badge/Avalanche-Blockchain-red?style=for-the-badge&logo=avalanche&logoColor=white"/>
-<img src="https://img.shields.io/badge/DID-Decentralized%20Identity-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Smart%20Contract-Web3-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Privacy-Preserving%20Analysis-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DID-Decentralized-Identity-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SmartContract-Web3-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Privacy-Preserving-Analysis-green?style=for-the-badge"/>
 
 </p>
 
