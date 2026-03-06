@@ -27,6 +27,7 @@ Privacy-preserving architecture enabling secure data analysis without exposing r
 *System concept, architecture, and demo video produced by Taehoon Jang.*
 
 
+
 ## Platforms & Projects
 
 <table>
@@ -34,69 +35,45 @@ Privacy-preserving architecture enabling secure data analysis without exposing r
 
 <td align="center" width="33%">
 
-### 🧠 KryptoBrain
-Secure & Verifiable Data Analysis System  
-Privacy-preserving architecture that enables secure data analysis without exposing raw datasets.
-
-CDM · PHR(App-to-App) · Chrome Extension · Kubernetes · Secure Pod · Avalanche Subnet · Smart Contract · DID · VC / VP
-
-<img src="image/kryptobrain.png" width="200"/>
+<b>🧠 KryptoBrain</b><br/>
+Secure & Verifiable Data Analysis System<br/>
+CDM · PHR · Chrome Extension · Kubernetes · Avalanche
 
 </td>
 
 <td align="center" width="33%">
 
-### 🪪 RhymeCard
-Decentralized Identity Platform  
-Blockchain-based digital identity and membership service enabling user-centered identity management.
-
-DID · Verifiable Credential · QR / NFC · Privacy-first Design
-
-<img src="image/rhymecard.png" width="200"/>
+<b>🪪 RhymeCard</b><br/>
+Decentralized Identity Platform<br/>
+DID · Verifiable Credential · QR/NFC
 
 </td>
 
 <td align="center" width="33%">
 
-### 🧬 Clinical Trial Search
-ClinicalTrials.gov 기반 대규모 임상시험 데이터 검색 및 분석 플랫폼.
-
-Large-scale clinical trial data pipeline providing search, filtering, statistics and visualization.
-
-ClinicalTrials.gov · JSON ETL · MySQL · Elasticsearch · Statistics View · REST API
-
-<img src="image/clinical.png" width="200"/>
+<b>🧬 Clinical Trial Search</b><br/>
+Large-scale ClinicalTrials.gov Data Platform<br/>
+JSON ETL · MySQL · Elasticsearch · REST API
 
 </td>
 
 </tr>
 
-
 <tr>
 
 <td align="center">
 
-### 🔬 Academic Paper Search (JGC)
-Context-aware scientific literature search system providing sentence-level semantic retrieval and evidence highlighting.
-
-PubMed · Full-text Parsing · SBERT · Vector Search · Re-rank · Evidence Snippet
-
-<img src="image/jgc.png" width="200"/>
+<b>🔬 Academic Paper Search (JGC)</b><br/>
+Context-aware Scientific Literature Search<br/>
+PubMed · SBERT · Vector Search · Re-rank
 
 </td>
 
 <td align="center">
 
-### 🏥 Health Avatar Platform
-Long-term healthcare platform development at SNU Biomedical Informatics Lab.
-
-Health Avatar Project (7-year national R&D)  
-EMR-linked personal health data platform and medical applications ecosystem.
-
-Health Avatar · XNet · DialysisNet · RehabilitationNet  
-Beans (Patient Mobile App) · PGxCDS · DOPPS · CKD Research Systems
-
-<img src="image/healthavatar.png" width="200"/>
+<b>🏥 Health Avatar Platform</b><br/>
+EMR-linked Personal Health Data Platform<br/>
+HealthAvatar · DialysisNet · Beans App
 
 </td>
 
