@@ -26,34 +26,44 @@ Privacy-preserving architecture enabling secure data analysis without exposing r
 
 *System concept, architecture, and demo video produced by Taehoon Jang.*
 
-
-
 ## Platforms & Projects
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<b>🧠 KryptoBrain</b><br/>
-Secure & Verifiable Data Analysis System<br/>
-CDM · PHR · Chrome Extension · Kubernetes · Avalanche
+## 🧠 KryptoBrain
+Secure & Verifiable Data Analysis System
 
-</td>
+Privacy-preserving platform enabling secure computation without exposing raw datasets.
 
-<td align="center" width="33%">
-
-<b>🪪 RhymeCard</b><br/>
-Decentralized Identity Platform<br/>
-DID · Verifiable Credential · QR/NFC
+CDM · PHR · Chrome Extension  
+Kubernetes · Secure Pod · Avalanche
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" align="center">
 
-<b>🧬 Clinical Trial Search</b><br/>
-Large-scale ClinicalTrials.gov Data Platform<br/>
-JSON ETL · MySQL · Elasticsearch · REST API
+## 🪪 RhymeCard
+Decentralized Identity Platform
+
+Blockchain-based digital identity and membership service.
+
+DID · Verifiable Credential  
+QR / NFC · Privacy-first Design
+
+</td>
+
+<td width="33%" align="center">
+
+## 🧬 Clinical Trial Search
+ClinicalTrials.gov Data Platform
+
+Large-scale clinical trial data pipeline providing search and analytics.
+
+JSON ETL · MySQL  
+Elasticsearch · REST API
 
 </td>
 
@@ -61,23 +71,31 @@ JSON ETL · MySQL · Elasticsearch · REST API
 
 <tr>
 
-<td align="center">
+<td width="33%" align="center">
 
-<b>🔬 Academic Paper Search (JGC)</b><br/>
-Context-aware Scientific Literature Search<br/>
-PubMed · SBERT · Vector Search · Re-rank
+## 🔬 Academic Paper Search
+(JGC)
 
-</td>
+Context-aware scientific literature search with semantic retrieval.
 
-<td align="center">
-
-<b>🏥 Health Avatar Platform</b><br/>
-EMR-linked Personal Health Data Platform<br/>
-HealthAvatar · DialysisNet · Beans App
+PubMed · SBERT  
+Vector Search · Re-rank
 
 </td>
 
-<td align="center">
+<td width="33%" align="center">
+
+## 🏥 Health Avatar Platform
+
+EMR-linked personal health data platform ecosystem.
+
+HealthAvatar · DialysisNet  
+Beans App · PGxCDS
+
+</td>
+
+<td width="33%" align="center">
+
 </td>
 
 </tr>
