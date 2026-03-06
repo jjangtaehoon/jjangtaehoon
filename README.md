@@ -13,6 +13,13 @@ Research Engineer · Medical AI Systems · Secure Data Platforms
 
 ---
 
+## 🎬 KryptoBrain Demo
+
+[![KryptoBrain Demo](docs/kryptobrain.png)](docs/kryptobrain.mp4)
+
+Secure & Verifiable Data Analysis System  
+Privacy-preserving architecture enabling secure data analysis without exposing raw datasets.
+
 ## Platforms & Projects
 
 <table>
