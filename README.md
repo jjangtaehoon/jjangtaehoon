@@ -21,29 +21,6 @@ Research Engineer · Medical AI Systems · Secure Data Platforms
 Secure & Verifiable Data Analysis System  
 Privacy-preserving architecture enabling secure data analysis without exposing raw datasets.  
 
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Avalanche-Blockchain-red?style=for-the-badge&logo=avalanche&logoColor=white"/>
-<img src="https://img.shields.io/badge/DID-Decentralized-Identity-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SmartContract-Web3-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Privacy-Preserving-Analysis-green?style=for-the-badge"/>
-
-</p>
-
-
 *System concept, architecture, and demo video produced by Taehoon Jang.*
 ## Platforms & Projects
 
