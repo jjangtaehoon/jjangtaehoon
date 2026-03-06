@@ -26,13 +26,15 @@ Privacy-preserving architecture enabling secure data analysis without exposing r
 
 *System concept, architecture, and demo video produced by Taehoon Jang.*
 
+
+
 <h2>Platforms & Projects</h2>
 
-<table width="100%" style="border-collapse:collapse; text-align:center;">
+<table width="100%" style="border-collapse:collapse;text-align:left;">
 
 <tr>
 
-<td width="33%" style="padding:28px; vertical-align:top;">
+<td width="33%" style="padding:22px;vertical-align:top;">
 
 <h3>🧠 KryptoBrain</h3>
 
@@ -45,12 +47,13 @@ without exposing raw datasets.
 
 <br><br>
 
-CDM · PHR · Chrome Extension  
-Kubernetes · Secure Pod · Avalanche
+<sub>
+CDM · PHR · Chrome Extension · Kubernetes · Secure Pod · Avalanche
+</sub>
 
 </td>
 
-<td width="33%" style="padding:28px; vertical-align:top;">
+<td width="33%" style="padding:22px;vertical-align:top;">
 
 <h3>🪪 RhymeCard</h3>
 
@@ -58,17 +61,17 @@ Kubernetes · Secure Pod · Avalanche
 
 <br><br>
 
-Blockchain-based digital identity  
-and membership service.
+Blockchain-based digital identity and membership service.
 
 <br><br>
 
-DID · Verifiable Credential  
-QR / NFC · Privacy-first Design
+<sub>
+DID · Verifiable Credential · QR / NFC · Privacy-first Design
+</sub>
 
 </td>
 
-<td width="33%" style="padding:28px; vertical-align:top;">
+<td width="33%" style="padding:22px;vertical-align:top;">
 
 <h3>🧬 Clinical Trial Search</h3>
 
@@ -76,13 +79,13 @@ QR / NFC · Privacy-first Design
 
 <br><br>
 
-Large-scale clinical trial data pipeline  
-for search and analytics.
+Large-scale clinical trial data pipeline for search and analytics.
 
 <br><br>
 
-JSON ETL · MySQL  
-Elasticsearch · REST API
+<sub>
+JSON ETL · MySQL · Elasticsearch · REST API
+</sub>
 
 </td>
 
@@ -91,25 +94,25 @@ Elasticsearch · REST API
 
 <tr>
 
-<td width="33%" style="padding:28px; vertical-align:top;">
+<td width="33%" style="padding:22px;vertical-align:top;">
 
 <h3>🔬 Academic Paper Search</h3>
 
-<b>(JGC)</b>
+<b>JGC</b>
 
 <br><br>
 
-Context-aware scientific literature search  
-with semantic retrieval.
+Context-aware scientific literature search with semantic retrieval.
 
 <br><br>
 
-PubMed · SBERT  
-Vector Search · Re-rank
+<sub>
+PubMed · SBERT · Vector Search · Re-rank
+</sub>
 
 </td>
 
-<td width="33%" style="padding:28px; vertical-align:top;">
+<td width="33%" style="padding:22px;vertical-align:top;">
 
 <h3>🏥 Health Avatar Platform</h3>
 
@@ -122,13 +125,13 @@ at SNU Biomedical Informatics Lab.
 
 <br><br>
 
-HealthAvatar · DialysisNet  
-Beans App · PGxCDS
+<sub>
+HealthAvatar · DialysisNet · Beans App · PGxCDS
+</sub>
 
 </td>
 
-<td width="33%" style="padding:28px;">
-</td>
+<td width="33%" style="padding:22px;"></td>
 
 </tr>
 
