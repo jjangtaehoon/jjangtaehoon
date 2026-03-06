@@ -20,6 +20,7 @@ Research Engineer · Medical AI Systems · Secure Data Platforms
 
 Secure & Verifiable Data Analysis System  
 Privacy-preserving architecture enabling secure data analysis without exposing raw datasets.  
+![Tech](https://skillicons.dev/icons?i=github,docker,kubernetes,ethereum,solidity,python,java)
 *System concept, architecture, and demo video produced by Taehoon Jang.*
 ## Platforms & Projects
 
