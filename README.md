@@ -1,15 +1,18 @@
 # Taehoon Jang  
-Research Engineer · Medical AI Systems · Secure Data Platforms
+
+Full-Stack Engineer · AI Systems · Secure Data Platforms  
+Biomedical Informatics Lab, Seoul National University · since 2010  
+Software Engineering since 2000  
 
 ---
 
-## Research Focus
+## Engineering & Research Areas
 
-- Healthcare Data Systems  
-- Medical AI Platforms  
-- Privacy Preserving Data Analysis  
-- Blockchain & Trust Systems  
-- Secure Research Infrastructure  
+- Healthcare Data Platforms  
+- Medical AI Systems  
+- Privacy-Preserving Data Analysis  
+- Blockchain & Trust Infrastructure  
+- Secure Computing Environments 
 
 ---
 
