@@ -51,7 +51,8 @@ Decentralized Identity Platform for Digital Identity & Community Membership
 
 ## 📌 Overview
 
-RhymeCard는 블록체인 기반 **Decentralized Identity Platform**으로, 개인의 신원 인증과 커뮤니티 멤버십 관리를 안전하게 수행하기 위한 **디지털 신분증 서비스**이다.  
+RhymeCard는 블록체인 기반 **Decentralized Identity Platform**으로, 
+개인의 신원 인증과 커뮤니티 멤버십 관리를 안전하게 수행하기 위한 **디지털 신분증 서비스**이다.  
 기존 중앙 서버 기반 계정 시스템과 달리 사용자의 신원은 **DID(Decentralized Identifier)** 기반으로 관리되며 개인이 자신의 신원 정보와 인증 데이터를 직접 통제할 수 있도록 설계되었다.  
 또한 사용자의 신원 및 자격 정보는 **Verifiable Credential (VC)** 형태로 발급되며 필요 시 **Verifiable Presentation (VP)** 방식으로 선택적으로 증명할 수 있어 개인정보를 직접 공개하지 않고도 신뢰 가능한 인증을 수행할 수 있다. 
 RhymeCard는 **모바일 앱** 형태로 발급되며 사용자는 **QR 코드 또는 NFC 방식**으로 간편하게 신원 인증과 멤버십 확인을 수행할 수 있다.  
