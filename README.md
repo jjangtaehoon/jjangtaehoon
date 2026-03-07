@@ -24,10 +24,10 @@ Secure Analysis Platform for Privacy-Preserving Data Processing
 
 ## 📌 Overview
 
-KryptoBrain은 개인정보 또는 의료데이터와 같은 민감 데이터를 안전하게 분석하기 위한 **Secure Analysis Platform**이다.
-데이터를 중앙으로 수집하는 방식이 아니라 **분석 실행 환경을 안전하게 생성하고 관리하는 방식**으로 설계되었다.
-분석은 **Kubernetes** 기반 **Analysis Pod**에서 실행되며 데이터는 외부 환경으로 직접 전달되지 않는다.
-데이터 제공자는 원본 데이터를 공유하지 않고 분석 결과만 전달할 수 있으며 분석 실행 과정과 결과는 검증 가능한 형태로 관리된다.
+KryptoBrain은 개인정보 또는 의료데이터와 같은 민감 데이터를 안전하게 분석하기 위한 **Secure Analysis Platform**이다.  
+데이터를 중앙으로 수집하는 방식이 아니라 **분석 실행 환경을 안전하게 생성하고 관리하는 방식**으로 설계되었다.  
+분석은 **Kubernetes** 기반 **Analysis Pod**에서 실행되며 데이터는 외부 환경으로 직접 전달되지 않는다.  
+데이터 제공자는 원본 데이터를 공유하지 않고 분석 결과만 전달할 수 있으며 분석 실행 과정과 결과는 검증 가능한 형태로 관리된다.  
 또한 연구의 생성, 참여, 결과 기록은 **Blockchain 기반 Smart Contract**와 **DAO 거버넌스**를 통해 관리되어 분석 과정과 결과의 무결성과 투명성을 확보한다.
 
 ---
