@@ -120,7 +120,7 @@ Context-Aware Academic Paper Search based on Semantic Analysis
 JGC Search System은 학술 논문의 메타데이터와 전문(full-text)을 기반으로 의미 중심 검색을 제공하는 **Academic Paper Search Platform**이다.  
 단순 키워드 검색이 아니라 논문 문장 단위의 의미를 분석하여 연구 주제와 관련된 논문을 탐색할 수 있도록 설계되었다.  
 논문 데이터는 **PubMed 및 학술 데이터 소스**에서 수집되며 텍스트 파싱과 데이터 정규화를 통해 검색 가능한 구조로 변환된다.  
-또한 **SBERT 기반 임베딩과 Vector Search 구조**를 활용하여 의미적으로 유사한 논문을 탐색할 수 있으며 검색 결과에서는 논문 전체가 아닌 **관련 근거 문장(Evidence Snippet)**을 함께 제공한다.  
+또한 **SBERT 기반 임베딩과 Vector Search 구조**를 활용하여 의미적으로 유사한 논문을 탐색할 수 있으며 검색 결과에서는 논문 전체가 아닌 **관련 근거 문장(Evidence Snippet)을 함께 제공**한다.  
 최근에는 **Local LLM 기반 질의 응답 기능을 통합하여 논문 검색 결과를 요약하고 연구 질문에 대한 컨텍스트 기반 응답을 제공하도록 확장하였다.**
 
 ---
