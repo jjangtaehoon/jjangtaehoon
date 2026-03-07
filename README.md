@@ -1,4 +1,4 @@
-# 👨‍💻 Taehoon Jang  
+# Taehoon Jang  
 
 Full-Stack Engineer · AI Systems · Secure Data Platforms  
 Biomedical Informatics Lab, Seoul National University · since 2010  
