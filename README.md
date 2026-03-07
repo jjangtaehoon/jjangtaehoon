@@ -18,8 +18,8 @@ Software Engineering since 2000
 
 ## Selected Projects
 
-The following five projects represent key systems and platforms developed through my work in healthcare data platforms, 
-AI systems, and secure computing environments.In most of these projects, I led the system design and core implementation.
+The following five projects represent key systems and platforms developed through my work in healthcare data platforms, AI systems, and secure computing environments.  
+In most of these projects, I led the system design and core implementation.
 
 ---
 
