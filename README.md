@@ -3,7 +3,6 @@
 Full-Stack Engineer · AI Systems · Secure Data Platforms  
 Biomedical Informatics Lab, Seoul National University · 2010 – present    
 Software Engineering since 2000  
-
 Research engineer building privacy-preserving data platforms for healthcare and AI systems.
 
 ---
