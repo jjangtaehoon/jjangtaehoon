@@ -32,7 +32,7 @@ KryptoBrain은 개인정보 또는 의료데이터와 같은 민감 데이터를
 
 ---
 
-## 🎬 KryptoBrain Demo
+## 🎬 KryptoBrain ▶️ Demo Video
 
 [![KryptoBrain Demo](docs/kryptobrain.png)](https://youtu.be/lnJUO_6_bFI)
 
