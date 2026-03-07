@@ -43,6 +43,38 @@ Privacy-preserving architecture enabling secure data analysis without exposing r
 *System concept, architecture, and demo video produced by Taehoon Jang.*
 
 
+# RhymeCard
+
+Decentralized Identity Platform for Digital Identity & Community Membership
+
+---
+
+## 📌 Overview
+
+RhymeCard는 블록체인 기반 **Decentralized Identity Platform**으로,  
+개인의 신원 인증과 커뮤니티 멤버십 관리를 안전하게 수행할 수 있도록 설계된 디지털 신분증 서비스이다.
+
+기존의 중앙 서버 기반 계정 시스템과 달리 사용자의 신원은  
+**DID(Decentralized Identifier)** 기반으로 관리되며,  
+개인은 자신의 신원 정보와 인증 데이터를 직접 통제할 수 있다.
+
+RhymeCard는 모바일 앱을 통해 발급되며  
+사용자는 **QR 코드 또는 NFC 방식**으로 간편하게 신원 인증과 멤버십 확인을 수행할 수 있다.
+
+이 시스템은 병원, 커뮤니티, 행사, 서비스 접근 관리 등 다양한 환경에서  
+**개인 인증, 회원 관리, 대기 시스템**을 통합적으로 지원한다.
+
+특히 의료기관과 같은 환경에서는  
+환자가 모바일 앱을 통해 **전자 대기표를 발급받고 QR 코드로 접수**할 수 있어  
+대기 및 접수 절차를 효율적으로 관리할 수 있다.
+
+---
+
+## 🎬 RhymeCard
+
+[![RhymeCard](docs/rhymecard.png)]
+
+
 
 <h2>Platforms & Projects</h2>
 
