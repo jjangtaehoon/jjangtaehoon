@@ -72,7 +72,7 @@ RhymeCard는 모바일 앱을 통해 발급되며
 
 ## 🎬 RhymeCard
 
-[![RhymeCard](docs/rhymecard.png)]
+![RhymeCard](docs/rhymecard.png)
 
 
 
