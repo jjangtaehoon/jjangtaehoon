@@ -29,7 +29,7 @@ In most of these projects, I led the system design and core implementation.
 Secure Analysis Platform for Privacy-Preserving Data Processing
 
 Tech Stack  
-`Java` · `Spring Boot` · `Kubernetes` · `Docker` · `AES Encryption` · `RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `WebSocket` · `REST API` · `PostgreSQL` · `MySQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration`
+`Java` · `Spring Boot` · `Kubernetes` · `Docker` · `AES Encryption` · `RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `WebSocket` · `REST API` · `PostgreSQL` · `MySQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `React` · `TypeScript`
 
 ---
 
@@ -57,8 +57,7 @@ Decentralized Identity Platform for Digital Identity & Community Membership
 
 Tech Stack  
 
-Blockchain · DID (Decentralized Identifier) · Verifiable Credentials · Verifiable Presentation · Mobile App · QR Code Authentication · NFC · Identity Management · Smart Contracts
-
+`Blockchain` · `DID (Decentralized Identifier)` · `Verifiable Credentials` · `Verifiable Presentation` · `Mobile App` · `QR Code Authentication` · `Identity Management` · `Smart Contracts` · `RabbitMQ`· `STOMP WebSocket` · `Kakao AlimTalk API` · `NICE Identity Verification` · `NHIS Eligibility Verification API` · `Kakao Pay Transfer API`
 
 ---
 
@@ -82,7 +81,7 @@ Personal Healthcare Data Platform for Integrated Medical Data Management
 
 Tech Stack  
 
-Healthcare Data Platform · EMR Integration · PHR Integration · Clinical Data Systems · Mobile Healthcare Apps(Android · iOS · iPadOS) · Medical Data Interoperability · Clinical Research Systems
+`Healthcare Data Platform` · `EMR Integration` · `PHR Integration` · `Clinical Data Systems` · `Mobile Healthcare Apps (Android)` · `Mobile Healthcare Apps (iOS)` · `Mobile Healthcare Apps (iPadOS)` · `Medical Data Interoperability` · `Clinical Research Systems`
 
 
 ---
@@ -107,7 +106,7 @@ Clinical Research Data Exploration Platform based on ClinicalTrials.gov
 
 Tech Stack  
 
-Python · Spring Boot · Flask API · MySQL · Elasticsearch · SBERT · Word2Vec · React · REST API · ETL Pipeline · JSON Data Processing · Vector Search · Data Visualization · ClinicalTrials.gov Data Processing · Large-scale Data Indexing
+`Python` · `Spring Boot` · `Flask API` · `MySQL` · `Elasticsearch` · `SBERT` · `Word2Vec` · `React` · `TypeScript` · `REST API` · `ETL Pipeline` · `JSON Data Processing` · `Vector Search` · `Data Visualization` · `ClinicalTrials.gov Data Processing` · `Large-scale Data Indexing`
 
 ---
 
@@ -132,7 +131,7 @@ Context-Aware Academic Paper Search based on Semantic Analysis
 
 Tech Stack  
 
-Python · Elasticsearch · SBERT · Vector Search · BM25 · Hybrid Search · MeSH Vocabulary · PubMed API (NCBI E-utilities) · PDF Processing · NLP · Evidence Extraction · Local LLM · Academic Data Processing
+`Python` · `Elasticsearch` · `SBERT` · `Vector Search` · `BM25` · `Hybrid Search` · `MeSH Vocabulary` · `PubMed API (NCBI E-utilities)` · `PDF Processing` · `NLP` · `Evidence Extraction` · `Local LLM` · `Academic Data Processing` · `React` · `TypeScript`
 
 
 ---
