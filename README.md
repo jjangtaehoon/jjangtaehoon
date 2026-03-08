@@ -22,6 +22,10 @@ Research engineer building privacy-preserving data platforms for healthcare and 
 The following five projects represent key systems and platforms developed through my work in healthcare data platforms, AI systems, and secure computing environments.  
 In most of these projects, I led the system design and core implementation.
 
+Core Technology Stack  
+
+`Oracle Cloud` · `Python` · `Java` · `Spring Boot` · `React TypeScript` · `Docker` · `Nginx` · `MySQL`
+
 ---
 
 # 🧠 KryptoBrain
@@ -29,7 +33,7 @@ In most of these projects, I led the system design and core implementation.
 Secure Analysis Platform for Privacy-Preserving Data Processing
 
 Tech Stack  
-`Java` · `Spring Boot` · `Kubernetes` · `Docker` · `AES Encryption` · `RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `WebSocket` · `REST API` · `PostgreSQL` · `MySQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `React` · `TypeScript`
+`Java` · `Spring Boot` · `Kubernetes` · `Docker` · `AES/RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `WebSocket` · `REST API` · `PostgreSQL` · `MySQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `React` · `TypeScript`
 
 ---
 
