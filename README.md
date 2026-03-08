@@ -24,6 +24,7 @@ In most of these projects, I led the system design and core implementation.
 
 Core Technology Stack  
 
+
 `Oracle Cloud` · `Docker` · `Nginx` · `Python` · `Java` · `Spring Boot` · `React TypeScript`  · `MySQL`
 
 ---
