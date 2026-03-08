@@ -107,7 +107,7 @@ Clinical Research Data Exploration Platform based on ClinicalTrials.gov
 
 Tech Stack  
 
-Python · MySQL · Elasticsearch · ETL Pipeline · JSON Data Processing · REST API · Data Visualization · ClinicalTrials.gov Data Processing · Large-scale Data Indexing
+Python · Spring Boot · Flask API · MySQL · Elasticsearch · SBERT · Word2Vec · React · REST API · ETL Pipeline · JSON Data Processing · Vector Search · Data Visualization · ClinicalTrials.gov Data Processing · Large-scale Data Indexing
 
 ---
 
@@ -132,7 +132,7 @@ Context-Aware Academic Paper Search based on Semantic Analysis
 
 Tech Stack  
 
-Python · SBERT · Vector Search · Elasticsearch · NLP · Semantic Search · Evidence Extraction · Local LLM · Academic Data Processing
+Python · Elasticsearch · SBERT · Vector Search · BM25 · Hybrid Search · MeSH Vocabulary · PubMed API (NCBI E-utilities) · PDF Processing · NLP · Evidence Extraction · Local LLM · Academic Data Processing
 
 
 ---
