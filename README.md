@@ -23,6 +23,7 @@ The following five projects represent key systems and platforms developed throug
 In most of these projects, I led the system design and core implementation.
 
 Core Technology Stack  
+
 `Oracle Cloud` · `Docker` · `Nginx` · `Python` · `Java` · `Spring Boot` · `React TypeScript`  · `MySQL`
 
 ---
@@ -59,6 +60,7 @@ KryptoBrain은 개인정보 또는 의료데이터와 같은 민감 데이터를
 Decentralized Identity Platform for Digital Identity & Community Membership
 
 Tech Stack  
+
 
 `Blockchain` · `DID (Decentralized Identifier)` · `Verifiable Credentials` · `Verifiable Presentation` · `Mobile App` · `QR Code Authentication` · `Identity Management` · `Smart Contracts` · `RabbitMQ` · `STOMP WebSocket` · `Kakao AlimTalk API` · `NICE Identity Verification` · `NHIS Eligibility Verification API` · `Kakao Pay Transfer API`
 
