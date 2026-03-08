@@ -33,6 +33,7 @@ Core Technology Stack
 Secure Analysis Platform for Privacy-Preserving Data Processing
 
 Tech Stack  
+
 `Kubernetes` · `AES/RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `PostgreSQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `RabbitMQ` · `STOMP WebSocket`
 
 ---
