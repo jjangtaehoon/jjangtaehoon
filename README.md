@@ -22,7 +22,7 @@ Research engineer building privacy-preserving data platforms for healthcare and 
 The following five projects represent key systems and platforms developed through my work in healthcare data platforms, AI systems, and secure computing environments.  
 In most of these projects, I led the system design and core implementation.
 
-### Core Technology Stack  
+Core Technology Stack  
 `Oracle Cloud` · `Docker` · `Nginx` · `Python` · `Java` · `Spring Boot` · `React TypeScript`  · `MySQL`
 
 ---
