@@ -29,7 +29,7 @@ In most of these projects, I led the system design and core implementation.
 Secure Analysis Platform for Privacy-Preserving Data Processing
 
 Tech Stack  
-Java · Spring Boot · Kubernetes · Docker · AES Encryption · Blockchain · Smart Contracts · Chrome Extension · WebSocket · REST API · PostgreSQL/MySQL · Secure Data Processing · CDM (OMOP) · PHR Integration
+Java · Spring Boot · Kubernetes · Docker · AES Encryption· RSA Encryption · Blockchain · Smart Contracts · Chrome Extension · WebSocket · REST API · PostgreSQL/MySQL · Secure Data Processing · CDM (OMOP) · PHR Integration
 
 ---
 
@@ -55,6 +55,11 @@ KryptoBrain은 개인정보 또는 의료데이터와 같은 민감 데이터를
 
 Decentralized Identity Platform for Digital Identity & Community Membership
 
+Tech Stack  
+
+Blockchain · DID (Decentralized Identifier) · Verifiable Credentials · Verifiable Presentation · Mobile App · QR Code Authentication · NFC · Identity Management · Smart Contracts
+
+
 ---
 
 ## 📌 Overview
@@ -74,6 +79,11 @@ RhymeCard는 **모바일 앱** 형태로 발급되며 사용자는 **QR 코드 �
 # 🏥 Health Avatar Project
 
 Personal Healthcare Data Platform for Integrated Medical Data Management
+
+Tech Stack  
+
+Healthcare Data Platform · EMR Integration · PHR Integration · Clinical Data Systems · Mobile Healthcare Apps(Android · iOS · iPadOS) · Medical Data Interoperability · Clinical Research Systems
+
 
 ---
 
@@ -95,6 +105,10 @@ Health Avatar Project는 개인의 의료 데이터를 통합 관리하고 활�
 
 Clinical Research Data Exploration Platform based on ClinicalTrials.gov
 
+Tech Stack  
+
+Python · MySQL · Elasticsearch · ETL Pipeline · JSON Data Processing · REST API · Data Visualization · ClinicalTrials.gov Data Processing · Large-scale Data Indexing
+
 ---
 
 ## 📌 Overview
@@ -115,6 +129,11 @@ Clinical Trial Search System은 **ClinicalTrials.gov** 기반 대규모 임상�
 # 🔎 JGC Search System
 
 Context-Aware Academic Paper Search based on Semantic Analysis
+
+Tech Stack  
+
+Python · SBERT · Vector Search · Elasticsearch · NLP · Semantic Search · Evidence Extraction · Local LLM · Academic Data Processing
+
 
 ---
 
