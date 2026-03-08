@@ -27,7 +27,9 @@ In most of these projects, I led the system design and core implementation.
 # 🧠 KryptoBrain
 
 Secure Analysis Platform for Privacy-Preserving Data Processing
+Tech Stack
 
+Java · Spring Boot · Kubernetes · Docker · AES Encryption · Blockchain · Smart Contracts · Chrome Extension · WebSocket · REST API · PostgreSQL/MySQL · Secure Data Processing · CDM (OMOP) · PHR Integration
 ---
 
 ## 📌 Overview
