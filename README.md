@@ -29,7 +29,7 @@ In most of these projects, I led the system design and core implementation.
 Secure Analysis Platform for Privacy-Preserving Data Processing
 
 Tech Stack  
-Java · Spring Boot · Kubernetes · Docker · AES Encryption · RSA Encryption · Blockchain · Smart Contracts · Chrome Extension · WebSocket · REST API · PostgreSQL · MySQL · Secure Data Processing · CDM (OMOP) · PHR Integration
+`Java` · `Spring Boot` · `Kubernetes` · `Docker` · `AES Encryption` · `RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `WebSocket` · `REST API` · `PostgreSQL` · `MySQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration`
 
 ---
 
