@@ -24,7 +24,7 @@ In most of these projects, I led the system design and core implementation.
 
 Core Technology Stack  
 
-`Oracle Cloud` · `Python` · `Java` · `Spring Boot` · `React TypeScript` · `Docker` · `Nginx` · `MySQL`
+`Oracle Cloud` · `Docker` · `Nginx` · `Python` · `Java` · `Spring Boot` · `React TypeScript`  · `MySQL`
 
 ---
 
@@ -33,7 +33,7 @@ Core Technology Stack
 Secure Analysis Platform for Privacy-Preserving Data Processing
 
 Tech Stack  
-`Java` · `Spring Boot` · `Kubernetes` · `Docker` · `AES/RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `WebSocket` · `REST API` · `PostgreSQL` · `MySQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `React` · `TypeScript`
+`Kubernetes` · `AES/RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `PostgreSQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `RabbitMQ` · `STOMP WebSocket`
 
 ---
 
@@ -61,7 +61,7 @@ Decentralized Identity Platform for Digital Identity & Community Membership
 
 Tech Stack  
 
-`Blockchain` · `DID (Decentralized Identifier)` · `Verifiable Credentials` · `Verifiable Presentation` · `Mobile App` · `QR Code Authentication` · `Identity Management` · `Smart Contracts` · `RabbitMQ`· `STOMP WebSocket` · `Kakao AlimTalk API` · `NICE Identity Verification` · `NHIS Eligibility Verification API` · `Kakao Pay Transfer API`
+`Blockchain` · `DID (Decentralized Identifier)` · `Verifiable Credentials` · `Verifiable Presentation` · `Mobile App` · `QR Code Authentication` · `Identity Management` · `Smart Contracts` · `RabbitMQ` · `STOMP WebSocket` · `Kakao AlimTalk API` · `NICE Identity Verification` · `NHIS Eligibility Verification API` · `Kakao Pay Transfer API`
 
 ---
 
@@ -110,7 +110,7 @@ Clinical Research Data Exploration Platform based on ClinicalTrials.gov
 
 Tech Stack  
 
-`Python` · `Spring Boot` · `Flask API` · `MySQL` · `Elasticsearch` · `SBERT` · `Word2Vec` · `React` · `TypeScript` · `REST API` · `ETL Pipeline` · `JSON Data Processing` · `Vector Search` · `Data Visualization` · `ClinicalTrials.gov Data Processing` · `Large-scale Data Indexing`
+`Flask API` · `Elasticsearch` · `SBERT` · `Word2Vec` · `ETL Pipeline` · `JSON Data Processing` · `Vector Search` · `Data Visualization` · `ClinicalTrials.gov Data Processing` · `Large-scale Data Indexing`
 
 ---
 
@@ -135,7 +135,7 @@ Context-Aware Academic Paper Search based on Semantic Analysis
 
 Tech Stack  
 
-`Python` · `Elasticsearch` · `SBERT` · `Vector Search` · `BM25` · `Hybrid Search` · `MeSH Vocabulary` · `PubMed API (NCBI E-utilities)` · `PDF Processing` · `NLP` · `Evidence Extraction` · `Local LLM` · `Academic Data Processing` · `React` · `TypeScript`
+`Elasticsearch` · `SBERT` · `Vector Search` · `BM25` · `Hybrid Search` · `MeSH Vocabulary` · `PubMed API (NCBI E-utilities)` · `PDF Processing` · `NLP` · `Evidence Extraction` · `Local LLM` · `Academic Data Processing`
 
 
 ---
