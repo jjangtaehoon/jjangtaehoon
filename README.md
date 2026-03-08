@@ -34,7 +34,7 @@ Secure Analysis Platform for Privacy-Preserving Data Processing
 
 Tech Stack  
 
-`Kubernetes` · `AES/RSA Encryption` · `Blockchain` · `Smart Contracts` · `Chrome Extension` · `PostgreSQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `RabbitMQ` · `STOMP WebSocket`
+`Kubernetes` · `Blockchain` · `Smart Contracts` ·  `Smart Contracts` · `Solidity` · `Remix` · `Chrome Extension` · `AES/RSA Encryption` · `PostgreSQL` · `Secure Data Processing` · `CDM (OMOP)` · `PHR Integration` · `RabbitMQ` · `STOMP WebSocket`
 
 ---
 
